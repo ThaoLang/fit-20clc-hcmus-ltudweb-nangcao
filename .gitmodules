@@ -1,0 +1,3 @@
+[submodule "advanced-web-frontend"]
+	path = advanced-web-frontend
+	url = https://github.com/ThaoLang/advanced-web-frontend.git
