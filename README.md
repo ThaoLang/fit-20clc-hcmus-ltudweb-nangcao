@@ -5,7 +5,7 @@ LightHub is a powerful and user-friendly online classroom management platform, b
 ## Key Features
 
 - **Class Management:** Conveniently create, edit, and manage classes.
-- **Grade Management and Review:** Easily send assignments, track progress, and evaluate assessments.
+- **Grade Management and Review:**  Empowers teachers with grading capabilities, while students can effortlessly view and request grade reviews within the system.
 - **Discussion and Communication:** Integrated discussion feature for flexible communication between teachers and students.
 - **Friendly and Flexible Interface:** Creative and user-friendly interface for both teachers and students.
 
